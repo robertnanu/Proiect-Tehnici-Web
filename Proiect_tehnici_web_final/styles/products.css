@@ -1,0 +1,22 @@
+.projects {
+    border-right: 2px solid green;
+    border-left: 2px solid green;
+    border-bottom: 2px solid green;
+    border-top: 2px solid green;
+    align: center;
+    color: blue;
+    text-align: center;
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 30%;
+    padding-bottom: 20px;
+}
+
+div {
+    display: block;
+}
+
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
